@@ -16,7 +16,8 @@ each source.
 
 4. Select your video capture device in the Video Capture Device properties
 
-5. Open filter settings for each of the Hue and Offset filters, scroll to the bottom and click Start
+5. Open filter settings by right-clicking the Video Capture Device and selecting Filters. Open each of the Hue 
+and Offset filter settings and scroll to the bottom. Click Start.
 
 ################# DoubleVision Patch Notes #################
 
